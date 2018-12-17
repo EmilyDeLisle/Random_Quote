@@ -1,0 +1,96 @@
+body {
+	color: white;
+	background: #fc00ff;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #00dbde, #fc00ff);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #00dbde, #fc00ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	font-family: "Ubuntu", sans-serif;
+	margin-top: 1em;
+}
+
+h1 {
+	font-family: "Russo One", sans-serif;
+	font-size: 36px;
+	text-align: center;
+}
+
+#titleContainer {
+	margin: 0 auto;
+	max-width: 600px;
+	padding: 10px 50px;
+	background-color: #00ED9E;
+	border-radius: 20px;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+	box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+}
+
+#container {
+	background-color: #00ED9E;
+	max-width: 600px;
+	margin: 10px auto;
+	padding: 25px 75px;
+	border-radius: 20px;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+	box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+}
+
+#quotespace {
+	margin: 30px 0 50px 0;
+	font-size: 72px;
+	text-align: center;
+}
+
+.quoteinfo {
+	font-size: 24px;
+	text-align: left;
+}
+
+#whoDisplay {
+	font-style: italic;
+}
+
+#reset {
+	margin: 0 auto;
+	display: block;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 5px;
+	font-size: 18px;
+	background-color: #FF6A6E;
+	color: #FFF;
+	box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+}
+
+#reset:focus {
+	outline: none;
+}
+
+#reset:hover {
+	background-color: #FFF;
+	color: #FF6A6E;
+}
+
+#tweetButton {
+	margin: 10px auto;
+	display: block;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 5px;
+	font-size: 18px;
+	background-color: #00aced;
+	color: #FFF;
+	box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+}
+
+#tweetButton:hover {
+	background-color: #FFF;
+	color: #00aced;
+}
+
+#tweet {
+	text-decoration: none;
+}
+
+#me {
+	text-align: center;
+	font-size: 10px;
+}
