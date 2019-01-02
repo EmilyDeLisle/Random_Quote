@@ -55,6 +55,34 @@ var quotes = [
 		words: "Look, Dave, I can see you're really upset about this. I honestly think you ought to sit down calmly, take a stress pill, and think things over.",
 		who: "- HAL (2001: A Space Odyssey, 1968)"
 	},
+	{
+		words: "They say we only use a fraction of our brain’s true potential. Now, that’s when we’re awake. When we’re asleep, our mind can build almost anything.",
+		who: "- Dom Cobb (Inception, 2010)"
+	},
+	{
+		words: "There is no escaping reason, no denying purpose. Because as we both know, without purpose, we would not exist.",
+		who: "- Agent Smith (The Matrix Reloaded, 2003)"
+	},
+	{
+		words: "My name is Inigo Montoya. You killed my father. Prepare to die.",
+		who: "- Inigo Montoya (The Princess Bride, 1987)"
+	},
+	{
+		words: "Bzzzzzzzzzzzzzzzzzt! Korben, sweetheart, what was that? IT WAS BAD! It had nothing! No fire, no energy, no nothin'! You know I have a show to run here, you know? Hmm? Hmm? And it must pop, Pop, POP! So tomorrow from five to seven, will you please act like you have more than a two word vo-cab-uh-lary? It must be green, OK? OK?",
+		who: "- Ruby Rohd (The Fifth Element, 1997)"
+	},
+	{
+		words: "Sonny, I've got a whole theme park full of red delights for you.",
+		who: "- Satan (Constantine, 2005)"
+	},
+	{
+		words: "She said all energy is only borrowed, and one day you have to give it back.",
+		who: "- Jake Sully (Avatar, 2009)"
+	},
+	{
+		words: "I am definitely going to die up here... if I have to listen to any more god-awful disco music.",
+		who: "- Mark Watney (The Martian, 2015)"
+	}
 ];
 
 //Click button to generate new quote
